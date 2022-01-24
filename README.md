@@ -25,7 +25,7 @@
 
 ## Pipeline
 
-![그림1](https://user-images.githubusercontent.com/63530964/150704785-c766eb05-5d63-42a8-8f77-41bb4c37e3f3.png)
+![KakaoTalk_Photo_2022-01-24-20-07-20](https://user-images.githubusercontent.com/63530964/150773784-ea0755da-50a1-44b3-8dc5-34decd8b0ba3.png)
 <br/>
 <br/>
 
