@@ -32,7 +32,7 @@
 
 ## 추천 시스템 결과
 
-#### 객체인식 기반
+#### 객체 인식 기반
 ![그림2](https://user-images.githubusercontent.com/63530964/150704854-23e513ce-89f2-4207-b1f7-45e0f05bdfc2.png)
 <br/>
 
