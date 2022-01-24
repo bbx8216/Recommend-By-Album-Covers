@@ -7,8 +7,8 @@
 
 ## Members
 
-• **Jaeyong Lee** - School of Applied Statistics, Chung-Ang Univ. 
-• **Surin Kim** - School of Applied Statistics, Chung-Ang Univ.
+• **Jaeyong Lee** - School of Applied Statistics, Chung-Ang Univ.   
+• **Surin Kim** - School of Applied Statistics, Chung-Ang Univ.   
 • **Minki Kang** - School of Computer Science & Engineering, Chung-Ang Univ. 
 <br/>
 <br/>
