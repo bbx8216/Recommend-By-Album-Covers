@@ -1,4 +1,4 @@
-# Album recommendation system using image similarity
+# Album Recommendation System using Image Similarity
 
 **이미지 유사도 기반 앨범 추천 시스템**
 <br/>
