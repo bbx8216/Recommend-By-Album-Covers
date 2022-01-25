@@ -3,7 +3,7 @@
 **이미지 유사도 기반 앨범 추천 시스템**
 <br/>
 <br/>
-[paper]()[Presentation]()[Code]()
+[paper](2022CUAI_winter 이미지유사도 기반 앨범 추천 시스템_paper.docx)|[Presentation](2022CUAI_winter 이미지유사도 기반 앨범 추천 시스템_발표자료.pptx)
 
 ## Members
 
