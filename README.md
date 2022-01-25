@@ -3,7 +3,7 @@
 **이미지 유사도 기반 앨범 추천 시스템**
 <br/>
 <br/>
-[paper]|[Presentation]
+[paper](https://github.com/CUAI-CAU/RecommendByAlbumCovers/blob/main/2022CUAI_winter%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9C%A0%EC%82%AC%EB%8F%84%20%EA%B8%B0%EB%B0%98%20%EC%95%A8%EB%B2%94%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C_paper.docx?raw=true)|[Presentation](https://github.com/CUAI-CAU/RecommendByAlbumCovers/blob/main/2022CUAI_winter%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9C%A0%EC%82%AC%EB%8F%84%20%EA%B8%B0%EB%B0%98%20%EC%95%A8%EB%B2%94%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx?raw=true)
 
 ## Members
 
