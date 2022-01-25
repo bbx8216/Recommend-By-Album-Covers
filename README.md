@@ -10,18 +10,18 @@
 
 ## Members
 
-• **Jaeyong Lee** - School of Applied Statistics, Chung-Ang Univ.   
-• **Surin Kim** - School of Applied Statistics, Chung-Ang Univ.   
-• **Minki Kang** - School of Computer Science & Engineering, Chung-Ang Univ. 
+• [**Jaeyong Lee**](https://github.com/jaeyonggy) - School of Applied Statistics, Chung-Ang Univ.   
+• [**Surin Kim**](https://github.com/eggplant000) - School of Applied Statistics, Chung-Ang Univ.   
+• [**Minki Kang**](https://github.com/bbx8216) - School of Computer Science & Engineering, Chung-Ang Univ. 
 <br/>
 <br/>
 
 
 ## Abstract
 
-기존 음악 추천 시스템과 달리 앨범 커버라는 시각적 데이터를 사용하여 음악 추천 시스템을 구현하였다. 구현한 추천 시스템은 다음과 같다.  
+기존 음악 추천 시스템과 달리 앨범 커버라는 시각적 데이터를 사용하여 음악 추천 시스템을 구현하였다.
 
-사용자가 선호하는 앨범들의 앨범 커버(Album cover)와 그 앨범의 감정(angry, happy, relaxed, sad)을 입력받는다. YOLO와 k-means를 이용하여 입력받은 앨범과 같은 감정을 가진 앨범 중 객체 및 색채를 기준으로 앨범 커버의 유사도가 높은 앨범 5종을 추천한다.  
+사용자가 선호하는 앨범들의 앨범 커버(Album cover)와 추천된 앨범을 통해 얻고자하는 감정 또는 사용자의 현재 감정(angry, happy, relaxed, sad)을 입력받는다. YOLO와 k-means를 이용하여 입력받은 앨범과 같은 감정을 가진 앨범 중 객체 및 색채를 기준으로 앨범 커버의 유사도가 높은 앨범 5종을 추천한다.  
 <br/>
 <br/>
 
