@@ -12,7 +12,7 @@
 
 • [**Jaeyong Lee**](https://github.com/jaeyonggy) - School of Applied Statistics, Chung-Ang Univ.   
 • [**Surin Kim**](https://github.com/eggplant000) - School of Applied Statistics, Chung-Ang Univ.   
-• [**Minki Kang**](https://github.com/bbx8216) - School of Computer Science & Engineering, Chung-Ang Univ. 
+• [**Minki Kang**](https://github.com/bbx8216)🙋‍♀️ - School of Computer Science & Engineering, Chung-Ang Univ. 
 <br/>
 <br/>
 
